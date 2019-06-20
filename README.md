@@ -1,6 +1,6 @@
 # done-reattachment
 
-[![Build Status](https://travis-ci.org//done-reattachment.svg?branch=master)](https://travis-ci.org//done-reattachment)
+[![Build Status](https://travis-ci.org//done-reattachment.svg?branch=master)](https://travis-ci.org//done-reattachment) [![Greenkeeper badge](https://badges.greenkeeper.io/donejs/done-reattachment.svg)](https://greenkeeper.io/)
 
 
 
